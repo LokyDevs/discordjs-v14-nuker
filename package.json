@@ -1,0 +1,13 @@
+{
+  "name": "discordjs-v14-nuker",
+  "version": "1.0.0",
+  "description": "Advanced server nuke bot based on Discord JS v14 and Slash Command",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": {"name": "B1BXONTY","url": "https://github.com/b1bxonty"},
+  "dependencies": {
+    "discord.js": "^14.7.1"
+  }
+}
